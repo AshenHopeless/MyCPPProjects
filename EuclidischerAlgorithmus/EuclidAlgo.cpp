@@ -2,8 +2,8 @@
 
 int main()
 {
-    int a = 50;
-    int b = 5;
+    int a = 77;
+    int b = 7;
     int erge = 0;
 
     if(a == 0)
@@ -27,4 +27,3 @@ int main()
     }
     printf("Wert: %i", erge);
 }
-4
